@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/one/Documents/code/RustEmbedProject/esp32-s3-c-tutorial/app/hello_world/main",
-      "program": "/home/one/Documents/code/RustEmbedProject/esp32-s3-c-tutorial/app/hello_world/main/build/Debug/outDebug",
+      "cwd": "/home/one/Documents/code/RustEmbedProject/esp32-s3-c-tutorial/app/flash_psram_size/main",
+      "program": "/home/one/Documents/code/RustEmbedProject/esp32-s3-c-tutorial/app/flash_psram_size/main/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
